@@ -1,0 +1,25 @@
+{
+  "name": "paginas-estaticas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarcarbonecarneiro/paginas-estaticas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarcarbonecarneiro/paginas-estaticas/issues"
+  },
+  "homepage": "https://github.com/cesarcarbonecarneiro/paginas-estaticas#readme",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
